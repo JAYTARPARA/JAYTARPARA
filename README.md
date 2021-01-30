@@ -44,7 +44,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[Jay's github stats](https://github-readme-stats.vercel.app/api?username=JAYTARPARA&theme=gotham)
+[[Jay's github stats](https://github-readme-stats.vercel.app/api?username=JAYTARPARA&theme=gotham)]
 
 ![](hhttps://visitor-badge.glitch.me/badge?page_id=JAYTARPARA.JAYTARPARA)
 
