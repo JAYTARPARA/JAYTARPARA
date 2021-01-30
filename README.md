@@ -46,6 +46,6 @@
 
 ![Jay's github stats](https://github-readme-stats.vercel.app/api?username=JAYTARPARA&theme=gotham)
 
-![](hhttps://visitor-badge.glitch.me/badge?page_id=JAYTARPARA.JAYTARPARA)
+![](https://visitor-badge.glitch.me/badge?page_id=JAYTARPARA.JAYTARPARA)
 
 [playstore]: https://play.google.com/store/apps/dev?id=5214414781557650224
