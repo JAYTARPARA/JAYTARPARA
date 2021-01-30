@@ -17,10 +17,6 @@
 <a href="https://stackoverflow.com/users/2679008/jay-tarpara?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-
-<a href="https://play.google.com/store/apps/dev?id=5214414781557650224" target="_blank">
-    <img src="https://camo.githubusercontent.com/6b6b38a0aac2088d4cb26221d577a01cb2e53bffaa0a9f0a21f28b30ac0e2405/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f67622f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" />
-</a>
 </div>
 
 
