@@ -22,7 +22,7 @@
 
 ### A Freelancer
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3o6Zt8hkOd16olgDra/giphy.gif" width="250" height="230" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3o6Zt8hkOd16olgDra/giphy.gif" width="320" height="230" />
 
 #### Personal Info About Me:
 
